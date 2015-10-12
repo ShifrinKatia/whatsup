@@ -1,8 +1,8 @@
 
 applications:
-- host: whatsup
+- host: Katiaqa
   disk: 512M
-  name: whatsup
+  name: Katiaqa
   command: node app.js
   path: .
   domain: mybluemix.net
